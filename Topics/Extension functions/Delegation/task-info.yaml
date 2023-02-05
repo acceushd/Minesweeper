@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "//Do not fix code below \nfun next(prev: Int): Int = prev * 1000 - 10\n\n\
+    //write your code here"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6631#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 03 Feb 2023 21:03:52 UTC"
+record: -1

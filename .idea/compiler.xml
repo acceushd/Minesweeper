@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Minesweeper.Minesweeper-task-build-classes-java.main" target="15" />
+      <module name="Minesweeper.Minesweeper-task-build-classes-kotlin.main" target="15" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Minesweeper.Minesweeper-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Minesweeper.Minesweeper-task-build-reports-tests.main" target="15" />
+      <module name="Minesweeper.Minesweeper-task-build-test-results.main" target="15" />
+      <module name="Minesweeper.Minesweeper-task-build-tmp.main" target="15" />
+      <module name="Minesweeper.Minesweeper-task.main" target="15" />
+      <module name="Minesweeper.Topics-Extension_functions-Declare_an_extension_function.main" target="15" />
+      <module name="Minesweeper.Topics-Extension_functions-Definition.main" target="15" />
+      <module name="Minesweeper.Topics-Extension_functions-Delegation.main" target="15" />
+      <module name="Minesweeper.Topics-Extension_functions-Theory.main" target="15" />
+      <module name="Minesweeper.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
